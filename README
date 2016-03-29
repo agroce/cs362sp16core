@@ -1,0 +1,19 @@
+This is CS 362, Oregon State University, Spring 2016.  I'm Alex Groce, your professor.
+
+There is a canvas instance for this class, which provides you with grades, deadlines, etc.
+
+Basic layout of repository:
+
+admin has the syllabus in Word and pdf formats
+
+assignments has all assignments, in Word and pdf formats
+
+dominion has the baseline dominion code you will be using
+
+lectures has lecture PowerPoint, plus a Word doc with links to ecampus
+(old) video versions of these lectures with voice commentary by me
+
+README is this here file
+
+extras will hold other things we do during class that aren't dominion
+related, but of interest
