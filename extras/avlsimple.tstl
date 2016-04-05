@@ -1,0 +1,18 @@
+@import avl
+
+source: avl.py
+
+pools:
+	<int> 4 CONST
+	<avl> 3 
+
+properties:
+	<avl>.check_balanced()
+
+actions:
+
+<int> := <[1..20]>
+<avl> := avl.AVLTree()
+~<avl>.insert(<int>)
+~<avl>.delete(<int>)
+<avl>.inorder()
